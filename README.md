@@ -1,5 +1,7 @@
-# Spring-sql
-Small spring project showcase.
+# Now this looks intresting!
+
+Here I decided to put all I've learned in to use. Also wanted to learn how to maintain the data, which was written to the website.
+Kind of a "chat" service - and it indeed works! This is still running on my Rasperry Pi server (on tomcat). Works only on my home LAN (not public).
 
  * Created with Eclipse Java EE IDE Oxygen.3a
  * Simple Apache Maven (4.0.0)  Spring framework project.
